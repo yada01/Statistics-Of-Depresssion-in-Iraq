@@ -1,0 +1,297 @@
+,Gender,Age,Weight,sleep problems,sucude attends,dipression ritio,Infected relatives,shock,related diseases,اAcademic performance
+0,male,20.0,80.0,no,yes,10.0,yes,yes,no,yes
+1,male,21.0,78.0,sometimes,no,6.0,no,no,no,no
+2,female,20.0,67.0,sometimes,no,7.0,no,no,no,no
+3,male,23.0,78.0,sometimes,no,8.0,no,no,no,yes
+4,male,22.0,78.0,no,yes,1.0,yes,no,yes,not student
+5,female,19.0,65.0,no,no,7.0,yes,yes,no,no
+6,female,19.0,,sometimes,yes,6.0,no,no,no,yes
+7,male,20.0,,sometimes,no,8.0,yes,no,no,yes
+8,female,21.0,50.0,sometimes,no,2.0,no,yes,no,no
+9,female,20.0,55.0,yes,no,5.0,no,yes,no,yes
+10,male,19.0,76.0,yes,yes,6.0,no,yes,no,yes
+11,female,22.0,73.0,sometimes,no,3.0,no,yes,no,no
+12,female,20.0,78.0,no,no,9.0,yes,yes,no,yes
+13,male,20.0,66.0,no,no,3.0,no,no,no,no
+14,female,17.0,47.0,yes,no,8.0,no,yes,no,yes
+15,male,22.0,65.0,yes,no,4.0,yes,no,no,yes
+16,female,18.0,50.0,no,yes,5.0,yes,no,no,no
+17,female,20.0,,yes,no,5.0,no,yes,no,yes
+18,female,20.0,74.0,sometimes,yes,7.0,no,yes,no,yes
+19,male,20.0,58.0,sometimes,no,6.0,yes,yes,no,yes
+20,male,20.0,69.0,sometimes,no,7.0,no,no,no,no
+21,male,23.0,90.0,no,no,10.0,yes,no,no,no
+22,female,22.0,64.0,no,no,10.0,no,no,no,yes
+23,female,20.0,,yes,no,7.0,yes,yes,no,yes
+24,female,19.0,59.0,sometimes,yes,5.0,no,no,no,no
+25,female,17.0,50.0,sometimes,yes,8.0,no,yes,yes,yes
+26,female,22.0,64.0,no,no,10.0,no,no,no,yes
+27,female,21.0,73.0,yes,no,8.0,no,yes,no,no
+28,male,25.0,52.0,yes,yes,9.0,no,no,no,yes
+29,female,21.0,70.0,no,no,6.0,no,yes,no,yes
+30,female,20.0,59.0,no,,1.0,yes,no,no,yes
+31,male,22.0,77.0,sometimes,no,3.0,no,yes,no,yes
+32,male,29.0,,yes,no,2.0,no,yes,no,no
+33,female,18.0,55.0,sometimes,no,7.0,no,yes,no,yes
+34,female,22.0,,yes,no,9.0,no,yes,no,yes
+35,female,21.0,60.0,sometimes,no,8.0,no,yes,no,no
+36,female,23.0,52.0,sometimes,no,5.0,yes,no,no,not student
+37,male,24.0,85.0,yes,no,6.0,no,no,no,yes
+38,female,19.0,69.0,yes,no,8.0,yes,yes,no,no
+39,female,19.0,47.0,yes,yes,8.0,yes,no,yes,yes
+40,female,24.0,159.0,sometimes,no,5.0,no,yes,no,yes
+41,female,18.0,,yes,no,6.0,yes,no,yes,no
+42,female,19.0,70.0,sometimes,yes,9.0,yes,yes,no,yes
+43,male,22.0,57.0,no,no,7.0,yes,yes,no,not student
+44,male,22.0,65.0,no,no,5.0,no,no,no,no
+45,female,43.0,90.0,no,no,1.0,yes,yes,no,not student
+46,female,20.0,60.0,no,no,4.0,no,yes,no,yes
+47,female,19.0,65.0,sometimes,no,4.0,no,yes,no,yes
+48,female,20.0,46.0,yes,no,5.0,no,yes,no,no
+49,male,22.0,57.0,yes,no,1.0,yes,no,no,yes
+50,female,19.0,46.0,yes,yes,8.0,no,no,no,yes
+51,female,23.0,60.0,sometimes,no,7.0,no,no,no,no
+52,female,23.0,47.0,yes,no,2.0,no,yes,no,not student
+53,male,22.0,60.0,sometimes,no,1.0,no,no,no,no
+54,female,17.0,,sometimes,no,3.0,no,no,no,yes
+55,female,24.0,60.0,yes,no,6.0,no,no,yes,no
+56,female,21.0,50.0,yes,no,4.0,no,no,no,yes
+57,female,16.0,,sometimes,yes,7.0,no,yes,no,no
+58,female,17.0,60.0,sometimes,no,8.0,yes,yes,no,yes
+59,female,17.0,,sometimes,no,6.0,yes,yes,no,yes
+60,male,20.0,67.0,no,no,4.0,yes,no,no,no
+61,male,17.0,70.0,no,no,1.0,no,no,no,no
+62,male,22.0,56.0,yes,no,5.0,no,no,yes,yes
+63,female,21.0,50.0,yes,no,4.0,no,no,no,yes
+64,male,22.0,56.0,yes,no,5.0,no,no,yes,yes
+65,female,32.0,68.0,yes,no,5.0,no,no,no,not student
+66,female,16.0,45.0,yes,no,7.0,no,yes,no,no
+67,female,20.0,62.0,no,no,4.0,no,no,no,yes
+68,male,21.0,63.0,no,no,2.0,no,yes,no,yes
+69,female,16.0,40.0,sometimes,no,7.0,yes,yes,no,no
+70,female,19.0,80.0,sometimes,no,9.0,no,yes,no,no
+71,female,20.0,70.0,sometimes,no,8.0,yes,no,no,yes
+72,female,19.0,65.0,sometimes,no,5.0,yes,yes,no,no
+73,female,33.0,63.0,sometimes,no,4.0,no,yes,no,no
+74,female,19.0,63.0,sometimes,no,8.0,no,no,no,yes
+75,male,25.0,68.0,no,no,4.0,no,yes,no,yes
+76,male,101.0,202.0,yes,yes,10.0,yes,yes,yes,yes
+77,female,20.0,57.0,no,no,9.0,no,yes,no,yes
+78,female,17.0,55.0,yes,no,3.0,yes,yes,no,yes
+79,female,21.0,65.0,sometimes,no,7.0,no,no,no,yes
+80,female,22.0,58.0,sometimes,no,5.0,no,yes,no,no
+81,male,17.0,,yes,yes,10.0,no,no,yes,no
+82,male,21.0,90.0,yes,no,3.0,yes,yes,no,yes
+83,male,16.0,90.0,no,no,5.0,yes,yes,no,yes
+84,male,24.0,67.0,sometimes,no,6.0,yes,yes,no,yes
+85,female,22.0,58.0,sometimes,yes,9.0,no,yes,no,no
+86,female,21.0,64.0,yes,no,5.0,no,no,no,yes
+87,female,20.0,50.0,sometimes,no,7.0,yes,yes,no,no
+88,male,19.0,74.0,no,no,5.0,no,yes,no,no
+89,female,21.0,54.0,sometimes,no,5.0,no,no,no,no
+90,female,20.0,84.0,sometimes,no,5.0,yes,no,no,no
+91,male,22.0,59.0,sometimes,no,5.0,no,yes,no,no
+92,female,20.0,45.0,no,no,4.0,yes,no,no,yes
+93,female,15.0,55.0,yes,no,6.0,no,yes,no,yes
+94,female,19.0,35.0,yes,yes,5.0,no,no,no,yes
+95,male,21.0,83.0,sometimes,no,7.0,yes,no,no,no
+96,female,21.0,,no,no,2.0,no,yes,no,yes
+97,female,20.0,,yes,no,4.0,no,yes,no,yes
+98,female,19.0,54.0,yes,no,6.0,no,no,no,no
+99,female,24.0,57.0,no,yes,9.0,yes,no,no,no
+100,female,20.0,40.0,yes,no,6.0,yes,no,no,yes
+101,male,21.0,85.0,sometimes,no,7.0,yes,no,no,no
+102,female,23.0,,sometimes,no,3.0,no,yes,no,no
+103,female,23.0,,yes,no,10.0,yes,no,no,no
+104,male,19.0,,sometimes,yes,8.0,no,yes,no,yes
+105,female,22.0,58.0,sometimes,no,2.0,no,yes,no,yes
+106,female,19.0,70.0,no,no,2.0,no,yes,yes,yes
+107,female,21.0,47.0,yes,no,6.0,no,no,no,
+108,male,21.0,,sometimes,yes,8.0,yes,yes,no,yes
+109,male,25.0,68.0,yes,no,8.0,no,yes,no,yes
+110,female,16.0,54.0,sometimes,no,6.0,no,yes,no,no
+111,female,22.0,44.0,yes,yes,4.0,yes,no,no,yes
+112,female,19.0,,yes,no,10.0,yes,no,no,no
+113,male,18.0,103.0,no,no,1.0,no,no,no,no
+114,female,20.0,53.0,sometimes,no,1.0,no,no,no,no
+115,female,19.0,65.0,sometimes,no,3.0,yes,yes,no,yes
+116,female,22.0,,no,no,5.0,no,yes,no,no
+117,female,19.0,75.0,no,no,4.0,yes,no,no,no
+118,female,21.0,63.0,sometimes,no,1.0,no,no,no,yes
+119,female,21.0,63.0,sometimes,no,1.0,no,no,no,yes
+120,female,18.0,64.0,sometimes,no,7.0,no,yes,no,no
+121,female,20.0,58.0,no,no,10.0,no,no,no,no
+122,female,21.0,57.0,sometimes,no,10.0,no,no,no,no
+123,male,22.0,90.0,yes,no,3.0,yes,yes,no,yes
+124,male,18.0,87.0,no,no,4.0,,yes,no,yes
+125,female,21.0,58.0,no,no,1.0,no,no,no,no
+126,male,20.0,,yes,no,7.0,no,no,no,no
+127,female,22.0,58.0,yes,yes,7.0,no,no,no,yes
+128,male,20.0,71.0,sometimes,no,2.0,yes,no,no,no
+129,female,20.0,48.0,sometimes,no,4.0,yes,no,no,no
+130,female,19.0,60.0,no,no,6.0,no,,no,no
+131,male,19.0,74.0,sometimes,no,2.0,no,no,no,no
+132,male,20.0,56.0,sometimes,no,4.0,no,yes,no,yes
+133,female,19.0,,sometimes,no,8.0,no,yes,no,yes
+134,male,19.0,54.0,no,no,1.0,no,no,no,no
+135,female,20.0,55.0,sometimes,no,3.0,no,no,no,no
+136,female,22.0,58.0,sometimes,no,5.0,yes,yes,no,no
+137,female,18.0,,sometimes,no,7.0,,yes,no,yes
+138,female,20.0,66.4,yes,no,7.0,no,yes,no,yes
+139,male,18.0,65.0,no,no,5.0,no,no,no,yes
+140,male,23.0,70.0,no,no,6.0,no,yes,no,no
+141,female,19.0,58.0,yes,yes,8.0,no,yes,no,yes
+142,female,16.0,60.0,yes,no,1.0,no,no,no,yes
+143,,,,,,,,,,
+144,male,21.0,54.0,no,no,8.0,no,yes,no,yes
+145,male,16.0,68.0,sometimes,yes,9.0,no,yes,no,no
+146,female,17.0,54.0,sometimes,no,3.0,no,yes,no,no
+147,male,,,sometimes,no,2.0,no,no,no,not student
+148,female,25.0,88.0,no,no,3.0,yes,no,no,not student
+149,female,20.0,45.0,sometimes,no,8.0,no,no,no,yes
+150,female,20.0,45.0,sometimes,no,8.0,no,no,no,yes
+151,female,20.0,20.0,yes,no,5.0,no,yes,no,not student
+152,female,20.0,53.0,no,no,8.0,yes,no,no,no
+153,female,17.0,61.0,sometimes,no,7.0,yes,yes,no,not student
+154,male,22.0,64.0,yes,no,2.0,yes,no,no,yes
+155,female,20.0,58.0,yes,no,8.0,no,yes,no,yes
+156,female,20.0,58.0,sometimes,no,4.0,no,no,no,yes
+157,male,22.0,62.0,sometimes,no,8.0,yes,yes,no,yes
+158,female,23.0,50.0,yes,no,7.0,yes,yes,no,not student
+159,female,23.0,50.0,yes,no,6.0,no,no,no,not student
+160,female,23.0,56.0,sometimes,no,6.0,no,yes,no,yes
+161,female,19.0,55.0,no,no,1.0,no,yes,no,yes
+162,female,18.0,42.0,yes,yes,8.0,no,no,no,no
+163,female,18.0,42.0,yes,yes,8.0,no,no,no,no
+164,female,18.0,45.0,yes,no,6.0,no,yes,no,not student
+165,female,19.0,,yes,no,9.0,no,yes,no,no
+166,female,19.0,45.0,sometimes,no,8.0,no,yes,no,no
+167,female,,,sometimes,no,5.0,no,no,no,no
+168,female,33.0,65.0,yes,no,10.0,no,yes,no,not student
+169,male,19.0,70.0,no,no,5.0,yes,no,no,no
+170,female,20.0,70.0,yes,no,7.0,no,no,no,yes
+171,female,27.0,85.0,sometimes,no,7.0,no,no,no,not student
+172,female,21.0,63.0,sometimes,no,8.0,no,yes,no,yes
+173,female,24.0,45.0,yes,yes,10.0,no,yes,no,not student
+174,female,20.0,,no,no,7.0,yes,yes,no,no
+175,female,20.0,54.0,no,no,5.0,no,no,no,no
+176,female,17.0,50.0,yes,yes,7.0,no,yes,no,yes
+177,male,22.0,50.0,yes,yes,8.0,yes,yes,no,yes
+178,female,19.0,,no,no,6.0,no,yes,no,no
+179,female,20.0,53.0,sometimes,no,3.0,no,no,no,no
+180,female,,30.0,no,no,1.0,no,no,no,not student
+181,female,16.0,43.0,sometimes,no,9.0,no,yes,no,no
+182,female,17.0,46.0,no,no,5.0,no,no,no,no
+183,male,23.0,70.0,sometimes,no,5.0,no,no,no,yes
+184,male,22.0,68.0,no,no,1.0,no,yes,no,no
+185,male,22.0,77.0,sometimes,no,7.0,no,yes,no,no
+186,male,21.0,80.0,sometimes,no,9.0,no,no,no,yes
+187,male,21.0,62.0,yes,yes,10.0,no,yes,no,yes
+188,female,19.0,58.0,no,no,1.0,no,no,no,no
+189,male,24.0,75.0,yes,no,7.0,yes,no,no,yes
+190,female,20.0,62.0,no,no,3.0,no,no,no,yes
+191,female,22.0,42.0,no,no,6.0,no,no,no,yes
+192,female,20.0,58.0,sometimes,no,8.0,yes,yes,no,yes
+193,female,21.0,69.0,sometimes,no,7.0,no,no,no,no
+194,female,20.0,54.0,yes,yes,9.0,no,yes,no,no
+195,male,19.0,73.0,sometimes,no,8.0,no,no,no,yes
+196,female,20.0,64.0,yes,no,8.0,no,yes,no,yes
+197,female,20.0,56.0,sometimes,no,4.0,no,yes,no,no
+198,male,40.0,80.0,sometimes,no,2.0,yes,yes,no,
+199,male,80.0,80.0,sometimes,no,3.0,yes,yes,no,yes
+200,male,21.0,115.0,sometimes,no,8.0,no,no,no,yes
+201,male,39.0,98.0,no,no,1.0,no,no,no,no
+202,female,23.0,64.0,no,no,1.0,no,no,no,no
+203,female,27.0,55.0,yes,yes,4.0,no,yes,no,yes
+204,male,22.0,104.0,yes,no,7.0,no,no,no,yes
+205,male,20.0,70.0,sometimes,no,6.0,yes,yes,no,yes
+206,male,21.0,75.0,no,no,4.0,no,no,no,no
+207,female,26.0,,yes,no,6.0,yes,no,no,no
+208,male,24.0,68.0,sometimes,no,4.0,no,yes,no,no
+209,male,22.0,70.0,sometimes,no,1.0,no,yes,no,yes
+210,female,29.0,81.0,sometimes,no,7.0,no,no,no,yes
+211,male,19.0,59.0,sometimes,no,7.0,yes,no,no,yes
+212,female,19.0,75.0,no,no,3.0,yes,no,no,no
+213,female,19.0,51.0,no,no,4.0,no,yes,no,no
+214,female,19.0,73.0,sometimes,no,9.0,no,yes,no,yes
+215,male,20.0,80.0,no,no,8.0,no,no,no,no
+216,male,18.0,70.0,no,no,6.0,no,no,no,yes
+217,female,21.0,54.0,no,no,5.0,no,yes,no,no
+218,male,20.0,,no,no,1.0,no,no,no,no
+219,female,22.0,50.0,sometimes,yes,10.0,no,yes,no,no
+220,male,22.0,62.5,sometimes,no,3.0,no,no,no,no
+221,male,30.0,,sometimes,no,2.0,no,yes,no,no
+222,male,22.0,75.0,no,no,,no,no,no,no
+223,male,26.0,90.0,yes,no,2.0,no,yes,no,no
+224,male,19.0,77.0,no,no,10.0,no,yes,no,no
+225,male,21.0,74.0,sometimes,no,5.0,no,yes,no,yes
+226,female,23.0,63.0,no,no,1.0,no,no,no,no
+227,female,22.0,46.0,no,no,1.0,no,no,no,no
+228,male,21.0,55.0,no,no,10.0,no,no,no,yes
+229,female,19.0,40.0,sometimes,no,7.0,no,no,no,no
+230,male,19.0,60.0,yes,no,2.0,yes,no,no,yes
+231,male,20.0,80.0,yes,no,8.0,yes,no,no,yes
+232,male,20.0,,no,no,1.0,no,no,no,no
+233,female,19.0,,sometimes,no,2.0,no,yes,no,no
+234,male,16.0,120.0,no,no,7.0,no,no,no,no
+235,female,21.0,64.0,no,no,3.0,no,no,no,yes
+236,male,22.0,58.0,no,no,3.0,no,no,no,yes
+237,male,21.0,70.0,yes,no,2.0,no,yes,no,yes
+238,female,20.0,55.0,sometimes,no,8.0,yes,no,yes,no
+239,female,22.0,,no,no,3.0,no,yes,no,no
+240,female,20.0,60.0,no,no,2.0,no,no,no,no
+241,female,21.0,52.0,yes,yes,9.0,no,yes,no,yes
+242,female,20.0,54.0,no,no,4.0,no,no,no,no
+243,female,20.0,70.0,no,no,3.0,no,no,no,yes
+244,male,21.0,56.0,yes,no,3.0,no,yes,no,yes
+245,male,20.0,55.0,no,no,6.0,no,no,no,no
+246,male,22.0,,sometimes,yes,4.0,no,yes,no,yes
+247,male,15.0,74.0,sometimes,yes,5.0,no,yes,no,no
+248,female,15.0,,sometimes,no,2.0,no,no,no,no
+249,female,23.0,52.0,yes,yes,9.0,no,yes,no,yes
+250,female,21.0,50.0,sometimes,no,3.0,no,no,no,yes
+251,female,22.0,64.0,sometimes,yes,8.0,no,yes,yes,yes
+252,male,24.0,63.0,sometimes,no,3.0,no,yes,no,no
+253,female,17.0,45.0,sometimes,no,5.0,no,no,no,yes
+254,male,15.0,65.0,no,no,1.0,no,no,no,no
+255,female,24.0,49.0,no,yes,5.0,yes,yes,no,not student
+256,male,23.0,50.0,sometimes,no,7.0,yes,no,no,yes
+257,male,16.0,60.0,yes,no,1.0,no,no,no,no
+258,male,25.0,71.0,no,no,2.0,yes,no,no,not student
+259,male,17.0,,sometimes,no,4.0,yes,no,no,no
+260,male,18.0,56.0,no,no,2.0,no,yes,no,no
+261,male,22.0,55.0,no,yes,10.0,no,yes,no,yes
+262,female,20.0,65.0,no,no,10.0,no,yes,no,yes
+263,female,22.0,60.0,yes,no,7.0,,no,no,yes
+264,female,19.0,,sometimes,no,6.0,no,yes,no,no
+265,male,21.0,74.0,no,no,6.0,no,yes,no,yes
+266,male,15.0,,yes,no,5.0,yes,no,no,yes
+267,female,20.0,,no,yes,7.0,no,no,no,yes
+268,male,22.0,,yes,no,7.0,no,yes,no,yes
+269,male,25.0,70.0,sometimes,yes,8.0,yes,yes,no,yes
+270,female,21.0,52.0,yes,no,1.0,no,no,no,no
+271,male,20.0,80.0,no,no,3.0,no,no,no,yes
+272,male,20.0,,yes,yes,7.0,yes,yes,no,no
+273,male,21.0,78.0,no,no,6.0,no,no,no,yes
+274,male,26.0,58.0,sometimes,no,10.0,no,no,no,no
+275,female,20.0,,no,no,1.0,no,no,no,no
+276,female,21.0,63.0,sometimes,no,9.0,yes,yes,no,yes
+277,male,20.0,,sometimes,no,2.0,no,no,no,no
+278,male,50.0,,sometimes,no,2.0,no,yes,no,not student
+279,male,21.0,62.0,no,no,10.0,no,yes,no,yes
+280,male,45.0,85.0,no,no,7.0,no,yes,no,not student
+281,male,47.0,89.0,no,no,2.0,no,yes,no,no
+282,female,50.0,,no,no,1.0,no,no,no,not student
+283,male,49.0,,no,no,2.0,yes,no,no,not student
+284,female,73.0,,no,no,1.0,no,yes,no,not student
+285,male,81.0,,no,no,1.0,no,yes,yes,not student
+286,male,25.0,,no,no,1.0,no,no,no,no
+287,male,21.0,60.0,no,no,2.0,yes,no,no,no
+288,,,58.0,no,no,6.0,yes,no,no,yes
+289,female,43.0,78.0,yes,no,5.0,no,no,no,not student
+290,female,43.0,,yes,no,5.0,no,no,no,not student
+291,female,,,sometimes,no,5.0,no,yes,no,not student
+292,male,47.0,87.0,yes,no,5.0,no,no,no,not student
+293,male,47.0,87.0,yes,no,5.0,no,no,no,not student
+294,male,57.0,97.0,sometimes,no,1.0,no,no,no,not student
+295,male,57.0,59.0,no,no,1.0,no,no,no,not student
